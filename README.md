@@ -231,8 +231,6 @@ My original idea was to create a more real-life database design following all no
 
 ![Original design](images/original_design.png)
 
-You can check it out [here](https://github.com/Kielx/Insurance-company-database/tree/original-design/model). 
-
 I later had to transform it into the design that you can see in the first screenshot in the about section. The reason for it was that it could become too complicated to create a data warehouse and queries based on my original design. Here is the finished data warehouse model:
 
 ![The finished model of data warehouse](images/data_warehouse.png)
@@ -394,12 +392,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Krzysztof Pantak - kielx.dev@gmail.com
-
-[Website](https://pantak.net)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -410,10 +402,6 @@ Krzysztof Pantak - kielx.dev@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/kielx/Insurance-company-database.svg?style=for-the-badge
-[issues-url]: https://github.com/kielx/Insurance-company-database/issues
-[license-shield]: https://img.shields.io/github/license/kielx/Insurance-company-database.svg?style=for-the-badge
-[license-url]: https://github.com/kielx/Insurance-company-database/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [SQLDeveloper]: https://img.shields.io/badge/SQLDeveloper-F80000?style=for-the-badge&logo=oracle&logoColor=white
 [SQLDeveloper-url]: https://www.oracle.com/database/sqldeveloper/
