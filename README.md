@@ -68,7 +68,7 @@
 
 ![Database screenshot](images/screenshot.png)
 
-This project was part of my coursework done through my studies at the Kielce University of Technology. It aimed to create a simplified version of a database for an insurance company (under 20 tables) and later to build a data warehouse on top of it (using a star schema). 
+This project was part of my coursework done through my studies at the ISETMA . It aimed to create a simplified version of a database for an insurance company (under 20 tables) and later to build a data warehouse on top of it (using a star schema). 
 
 Prior to starting work on this project, I did research to determine if anyone had created something similar and made it available to the public. Unfortunately, the results of my search were less than satisfactory. I had to attempt to create the database model, the relationships, the data generator, the transformation of the data into a data warehouse and all the queries myself. However, this was my first approach to creating a database and data warehouse so the model or queries may contain errors or fall short of good practices. Nevertheless, below you will find the results of my work, which may be useful to those who are tasked with creating a similar project. 
 
